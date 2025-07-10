@@ -57,7 +57,7 @@ sudo apt-get install g++ build-essential
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/lwe_ml_attack.git
+git clone https://github.com/DA1729/lwe_ml_attack.git
 cd lwe_ml_attack
 pip install -r requirements.txt
 ```
