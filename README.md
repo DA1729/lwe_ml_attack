@@ -19,11 +19,12 @@ The Learning With Errors (LWE) problem is a fundamental building block for post-
 
 ```
 lwe_ml_attack/
-├── src/                    # Core implementation
+├── src/                   # Core implementation
 │   ├── lwe_crypto.py      # LWE cryptographic primitives
 │   ├── attack_engine.py   # Main attack orchestration
 │   ├── model_trainer.py   # Neural network training
-│   └── data_generator.py  # Training data generation
+│   ├── data_generator.py  # Training data generation
+│   └── lwe.cpp            # C++ implementation of LWE encryption/decryption
 ├── demos/                 # Demonstration scripts
 │   ├── simple_demo.py     # Basic attack demonstration
 │   ├── fast_demo.py       # Quick demo with subset of models
