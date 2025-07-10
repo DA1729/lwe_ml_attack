@@ -1,0 +1,111 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (these are large)
+models/*.h5
+models/*.pkl
+models/*.json
+*.h5
+*.pkl
+
+# Data files
+data/*.csv
+data/*.npy
+data/*.npz
+data/raw/
+data/processed/
+
+# Results
+results/*.png
+results/*.jpg
+results/*.pdf
+results/*.log
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Compiled C++
+*.o
+*.exe
+*.out
+a.out
+
+# TensorFlow
+*.pb
+saved_model/
+checkpoint
+*.ckpt*
+*.meta
+*.index
+
+# PyTorch
+*.pth
+*.pt
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
