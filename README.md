@@ -204,28 +204,11 @@ secret_key = attack.recover_secret(ciphertext)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-
-## 🎓 Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@misc{lwe_ml_attack2024,
-  title={Machine Learning Attacks on Learning With Errors},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/lwe_ml_attack}
-}
-```
+- **Email**: dakshpandey177@gmail.com
+- **GitHub**: [@DA1729](https://github.com/DA1729)
 
 ---
 
